@@ -1,0 +1,6 @@
+# JLU_CHECK
+吉林大学研究生打卡程序
+将账号密码按格式填入dk.json
+运行check.py即可自动打卡
+每天12点和0点运行一遍clean.py进行打卡状态初始化
+可使用windows计划任务或Linux corn进行定时执行
