@@ -4,3 +4,4 @@
 运行check.py即可自动打卡
 每天12点和0点运行一遍clean.py进行打卡状态初始化
 可使用windows计划任务或Linux corn进行定时执行
+有其他问题欢迎提Issue
